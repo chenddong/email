@@ -1,0 +1,8 @@
+e.account=service@gangguanhui.com
+e.pass=Ronggang123456
+e.from=service@gangguanhui.com
+e.host=smtp.exmail.qq.com
+#发送服务器端口
+e.port=465
+e.protocol=smtp
+mail.smtp.starttls.enable=true
